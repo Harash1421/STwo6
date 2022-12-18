@@ -1,10 +1,3 @@
-//
-//  AppDelegate.swift
-//  WeatherApp
-//
-//  Created by Abd Harash on 3/16/22.
-//
-
 import UIKit
 import CoreData
 
